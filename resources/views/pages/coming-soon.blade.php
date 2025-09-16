@@ -16,10 +16,11 @@
                 <div class="flex flex-col justify-center text-center gap-6">
                     <a href="/" class="flex justify-center mx-auto">
                         <img class="h-6 block dark:hidden" src="/images/logo-dark.png" alt="">
-                        <img class="h-6 hidden dark:block" src="/images/logo-light.png" alt="">
+                        <img class="h-6 hidden dark:block" src="/images/level-up-light.jpg" alt="">
                     </a>
                     <i class="mgc_rocket_line text-4xl text-gray-600 dark:text-gray-100 -rotate-45 my-4"></i>
-                    <h1 class="text-2xl font-bold tracking-tight dark:text-gray-100">Stay tunned, we're launching very soon</h1>
+                    <h1 class="text-2xl font-bold tracking-tight dark:text-gray-100">Stay tunned, we're launching very
+                        soon</h1>
                     <p class="text-base text-gray-600 dark:text-gray-300">We're making the system more awesome.</p>
                 </div>
             </div>

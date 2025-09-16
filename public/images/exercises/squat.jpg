@@ -1,0 +1,9 @@
+<!-- This is a placeholder SVG for a squat exercise image -->
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#f0f0f0"/>
+  <circle cx="150" cy="80" r="30" fill="#333"/>
+  <rect x="140" y="110" width="20" height="80" fill="#333"/>
+  <rect x="120" y="190" width="20" height="60" fill="#333" transform="rotate(20 120 190)"/>
+  <rect x="160" y="190" width="20" height="60" fill="#333" transform="rotate(-20 160 190)"/>
+  <text x="150" y="280" font-family="Arial" font-size="20" text-anchor="middle" fill="#333">Squat</text>
+</svg>

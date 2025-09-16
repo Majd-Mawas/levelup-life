@@ -4,14 +4,19 @@
         <div>
             <script>
                 document.write(new Date().getFullYear())
-            </script> © Konrix - <a href="https://coderthemes.com/" target="_blank">Coderthemes</a>
+            </script> © <span class="font-nevan">LEVEL UP LIFE</span>
+
         </div>
         <div class="md:flex hidden gap-4 item-center md:justify-end">
-            <a href="javascript: void(0);" class="text-sm leading-5 text-zinc-600 transition hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white">About</a>
+            <a href="javascript: void(0);"
+                class="text-sm leading-5 text-zinc-600 transition hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white">About</a>
             <span class="border-e border-gray-300 dark:border-gray-700"></span>
-            <a href="javascript: void(0);" class="text-sm leading-5 text-zinc-600 transition hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white">Support</a>
+            <a href="javascript: void(0);"
+                class="text-sm leading-5 text-zinc-600 transition hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white">Support</a>
             <span class="border-e border-gray-300 dark:border-gray-700"></span>
-            <a href="javascript: void(0);" class="text-sm leading-5 text-zinc-600 transition hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white">Contact Us</a>
+            <a href="javascript: void(0);"
+                class="text-sm leading-5 text-zinc-600 transition hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white">Contact
+                Us</a>
         </div>
     </div>
 </footer>
