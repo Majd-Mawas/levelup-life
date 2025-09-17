@@ -2,20 +2,6 @@
 
 @section('content')
     <div class="container-fluid">
-        <!-- Page title -->
-        <div class="flex flex-col gap-4 md:flex-row md:items-center md:justify-between mb-6">
-            <div>
-                <h4 class="text-2xl font-semibold">Trainees</h4>
-                <nav aria-label="breadcrumb">
-                    <ol class="flex text-sm">
-                        <li class="pr-2"><a href="{{ route('dashboard') }}"
-                                class="text-gray-500 hover:text-primary">Dashboard</a></li>
-                        <li class="before:content-['/'] before:px-2 text-gray-700">Trainees</li>
-                    </ol>
-                </nav>
-            </div>
-        </div>
-
         <!-- Trainees list -->
         <div class="bg-white dark:bg-slate-800 rounded-lg shadow-sm mb-6">
             <div class="p-5">
